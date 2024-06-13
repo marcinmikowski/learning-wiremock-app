@@ -1,0 +1,1 @@
+keytool -genkey -keyalg RSA -alias selfsigned -keystore keystore.jks -storepass password -validity 1825 -keysize 2048
